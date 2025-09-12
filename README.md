@@ -1,4 +1,4 @@
-# Financial-Modelling-and-Valuation
+# Financial Modelling and Valuation
 Financial Modelling &amp; Valuation project on HUL featuring a 3-statement model, WACC analysis, common-size statements, and relative valuation. Includes integrated Excel models to assess financial performance, capital structure, and intrinsic value.
 📊 Financial Modelling & Valuation – HUL Case Study
 📌 Introduction
@@ -8,23 +8,16 @@ It integrates core finance concepts into a structured model to analyze business 
 
 📂 Files Included
 
-3_Statement_Model.xlsx → Integrated Income Statement, Balance Sheet, and Cash Flow.
+3 Statement Financial Model → Integrated Income Statement, Balance Sheet, and Cash Flow.
 
-WACC_Model.xlsx → Weighted Average Cost of Capital with sensitivity analysis.
+WACC Model → Weighted Average Cost of Capital (without sensitivity analysis).
 
-Common_Size_Statements.xlsx → Trend and ratio analysis using standardized statements.
+Common Size Statements → Trend and ratio analysis using standardized statements.
 
-Relative_Valuation.xlsx → Peer benchmarking using valuation multiples.
+Relative Valuation → Peer benchmarking using valuation multiples.
 
-Valuation_Summary.xlsx → Final valuation with conclusions.
+Valuation Summary.xlsx → Final valuation with conclusions.
 
-⚙️ How to Use
-
-Download the Excel files.
-
-Open models in sequence: 3-Statement → WACC → Common Size → Relative Valuation → Valuation Summary.
-
-Adjust assumptions (growth rates, discount rate, peer multiples) to test different scenarios.
 
 🔑 Insights
 
@@ -44,6 +37,3 @@ Build a structured model useful for analysts, MBA students, and finance enthusia
 
 Showcase modelling and analytical skills in a professional, recruiter-friendly format.
 
-Would you like me to also add a visual workflow diagram (flow of models: 3-Statement → WACC → Relative Valuation → Final Value) that you can upload as an image to make the README stand out?
-
-You said:
